@@ -1,7 +1,7 @@
 variable "repository" {
-  default = "git@github.com:atlantis-academy/test"
+  default = "git@github.com:standart-ag/test"
 }
 
 variable "domain" {
-  default = "test.atlantis.dev
+  default = "test.mad-infra.ml"
 }
